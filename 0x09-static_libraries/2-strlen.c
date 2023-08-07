@@ -14,3 +14,4 @@ int _strlen(char *s)
 		a++;
 	return (a);
 }
+//by lesny.io

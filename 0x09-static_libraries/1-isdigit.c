@@ -12,3 +12,4 @@ int _isdigit(int c)
 	else
 		return (0);
 }
+//by lesny.io
