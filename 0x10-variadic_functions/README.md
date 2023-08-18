@@ -1,7 +1,7 @@
 # Variadic Functions
 
 ## 0. Beauty is variable, ugliness is constant
-A function that returns the sum of all its parameters.
+>A function that returns the sum of all its parameters.
 
 ### Prototype:
 int sum_them_all(const unsigned int n, ...);
@@ -12,7 +12,7 @@ Directory: 0x10-variadic_functions
 File: 0-sum_them_all.c
     
 ## 1. To be is to be the value of a variable
-A function that prints numbers, followed by a new line.
+>A function that prints numbers, followed by a new line.
 
 ### Prototype:
 void print_numbers(const char *separator, const unsigned int n, ...);
@@ -27,7 +27,7 @@ Directory: 0x10-variadic_functions
 File: 1-print_numbers.c
     
 ## 2. One woman's constant is another woman's variable
-A function that prints strings, followed by a new line.
+>A function that prints strings, followed by a new line.
 
 ### Prototype:
 void print_strings(const char *separator, const unsigned int n, ...);
@@ -43,7 +43,7 @@ Directory: 0x10-variadic_functions
 File: 2-print_strings.c
     
 ## 3. To be is a to be the value of a variable
-A function that prints anything.
+>A function that prints anything.
 
 ### Prototype:
 void print_all(const char * const format, ...);
